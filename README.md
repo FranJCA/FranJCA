@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <picture> <img align="right" src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width=250px></picture>
 
-- 👨‍💻 I'm a `Software Developer` focused on finding tech-driven solutions.
+- 👨‍💻 I'm a Junior `Software Developer` focused on finding tech-driven solutions.
 - 🌱 Currently learning and working with `Python`, `Java`, `JavaScript`, and `Django`.
 - 🔧 Experienced in building projects with APIs, web technologies, and more.
 - 💼 I'm open to new opportunities, check out my [GitHub Projects](https://github.com/FranJCA).
@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:your_email@example.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>
+  <a href="mailto:Franjca12@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/FranJCA"><img alt="GitHub" src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/franjca/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## 💻 GitHub Stats
